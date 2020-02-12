@@ -1,6 +1,6 @@
 def hello_t(array)
   
-  if black_given?
+  if block_given?
   i = 0 
   
   while i < array.length 
